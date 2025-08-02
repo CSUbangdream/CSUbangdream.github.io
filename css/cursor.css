@@ -1,0 +1,12 @@
+/* 鼠标样式 */
+body {
+    cursor: url(https://img.june-pj.cn/img/default.cur),
+    default;
+}
+a,
+img {
+    cursor: url(https://img.june-pj.cn/img/pointer.cur),
+    default;
+}
+
+

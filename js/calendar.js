@@ -36,6 +36,7 @@ function getNextFestivalDate() {
 		{ name: "拉刺对邦", month: 12, day: 7 },
 		{ name: "破琵琶live", month: 1, day: 3 },
 		{ name: "元旦", month: 1, day: 1 },
+		{ name: "圣诞节", month: 12, day: 25 },
     ];
 
     // 农历节日

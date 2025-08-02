@@ -64,7 +64,7 @@ if (m == 12 && dd == 25) {//圣诞节
         sessionStorage.setItem("isPopupWindow", "1");
     }
 }
-if (m == 11 && dd == 11) {//牧光
+if (m == 8 && dd == 3) {//牧光
     if (sessionStorage.getItem("isPopupWindow") != "1") {
         Swal.fire("牧光生日快乐！🎂");
         sessionStorage.setItem("isPopupWindow", "1");
